@@ -7,8 +7,6 @@ serverspec-demoは、Serverspecを使用して対象となるAWSのEC2インス�
   - VPC
   - EC2
   - RDS
-# 構成図
-- 
 # 特徴
 - テスト内容は、以下の通りです。
   - 22番ポートがListenしているか
